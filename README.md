@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, este es mi proyecto para codo a codo 2023 👋
 
 <!--
 **sandraFerreyra/sandraFerreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
